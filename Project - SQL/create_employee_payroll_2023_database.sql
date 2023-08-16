@@ -1,0 +1,2 @@
+create database employee_payroll_2023;
+use employee_payroll_2023;
